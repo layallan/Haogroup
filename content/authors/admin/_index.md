@@ -1,41 +1,46 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. 
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Hao
+last_name: Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Visiting Physicist at SLAC, Stanford University
 
 # Organizations/Affiliations
 organizations:
   - name: Stanford University
-    url: ''
+    url: 'https://profiles.stanford.edu/331519'
+  - name: University of California, Los Angeles
+    url: 'https://light-matter.seas.ucla.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hao received his B.Sc. degree at Tianjin University in China in 2020 before pursuing his MAS.c degree at the University of Victoria in Canada. He is one of the Quantum BC scholars and the Canada NSERC QC CREATE Scholar. Previously, he worked in RF and microwave engineering and since September 2020, he focused on nonlinear optics and plasmon-enhanced optical trapping. Currently, he is a Ph.D. student at the University of California, Los Angeles, supervised by Dr. Sergio Carbajo, and is also a visiting student at SLAC. In his free time, he likes hiking, playing basketball, astronomical observation, and painting.
 
 interests:
+  - Ultrafast optics
+  - Nonlinear optics
+  - X-ray Free Electron Laser
+  - Nanophotonics
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Photonics/microwave circuit
+  
 
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Electrical and Computer Engineering
+      institution: University of California, Los Angeles (US)
+      year: 2026
+    - course: MAS.c in Electrical and Computer Engineering
+      institution: University of Victoria (Canada)
+      year: 2022
+    - course: BSc in Electrical Engineering
+      institution: Tianjin University (China)
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
