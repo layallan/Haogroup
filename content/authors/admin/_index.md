@@ -20,7 +20,7 @@ organizations:
     url: 'https://light-matter.seas.ucla.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hao received his B.Sc. degree at Tianjin University in China in 2020 before pursuing his MAS.c degree at the University of Victoria in Canada. He is one of the Quantum BC scholars and the Canada NSERC QC CREATE Scholar. Previously, he worked in RF and microwave engineering and since September 2020, he focused on nonlinear optics and plasmon-enhanced optical trapping. Currently, he is a Ph.D. student at the University of California, Los Angeles, supervised by Dr. Sergio Carbajo, and is also a visiting student at SLAC. In his free time, he likes hiking, playing basketball, astronomical observation, and painting.
+Bio: Hao received his B.Sc. degree at Tianjin University in China in 2020 before pursuing his MAS.c degree at the University of Victoria in Canada. He is one of the Quantum BC scholars and the Canada NSERC QC CREATE Scholar. Previously, he worked in RF and microwave engineering and since September 2020, he focused on nonlinear optics and plasmon-enhanced optical trapping. Currently, he is a Ph.D. student at the University of California, Los Angeles, supervised by Dr. Sergio Carbajo, and is also a visiting student at SLAC. In his free time, he likes hiking, playing basketball, astronomical observation, and painting.
 
 interests:
   - Ultrafast optics
@@ -28,6 +28,7 @@ interests:
   - X-ray Free Electron Laser
   - Nanophotonics
   - Artificial Intelligence
+  - Deep Learning/Machine Learning
   - Photonics/microwave circuit
   
 
@@ -49,16 +50,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:hao_zhang@ieee.org'
+  - icon: Linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.linkedin.com/in/zhanghao27
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.ca/citations?user=L7n2XRAAAAAJ&hl=en
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
